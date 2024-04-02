@@ -19,7 +19,7 @@ This project contains a Python script that connects to the Binance WebSocket API
 
 ### Installation
 
-1. Clone the repository:
+Clone the repository:
 
 git clone https://github.com/berker-y/tankX.git
 
